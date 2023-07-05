@@ -1,0 +1,31 @@
+.nav {
+  float: left;
+  background-color: black;
+  height: 90px;
+  width: 100%;
+  display: flex;
+  
+}
+
+.nav img {
+  padding: 14px 16px;
+}
+
+.nav h2 {
+  color: white;
+  margin: 26px 0 0 0;
+  font-family:copperplate, papyrus, fantasy;
+}
+
+
+.option {
+  margin: 26px 0 0 700px;
+  font-size: 27px;
+}
+
+.option a {
+  margin-right: 30px;
+  text-decoration: none;
+  color: white;
+  font-family:copperplate, papyrus, fantasy;
+}
